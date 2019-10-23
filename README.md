@@ -1,4 +1,4 @@
-# [License](https://github.com/eswar3/sentiment-analysis-sagemaker-deployment/blob/master/LICENSE)
+
 
 # Deploying a Sentiment Analysis Model
 
@@ -15,7 +15,7 @@ This entire project is done on Amazon sagemaker and uses some heavy GPU instance
 
 1. Clone the repository.
 	```
-		git clone https://github.com/eswar3/sentiment-analysis-sagemaker-deployment.git
+		git clone https://github.com/ericboss/sentiment-analysis.git
 	```
 2. Open the `SageMaker Project.ipynb` file.
 	```
